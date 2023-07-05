@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smriti2510/PokeTab/static/css/main.d5ff60de.chunk.css",
+    "main.js": "/smriti2510/PokeTab/static/js/main.a8cb2a3e.chunk.js",
+    "main.js.map": "/smriti2510/PokeTab/static/js/main.a8cb2a3e.chunk.js.map",
+    "runtime-main.js": "/smriti2510/PokeTab/static/js/runtime-main.0cd5b9de.js",
+    "runtime-main.js.map": "/smriti2510/PokeTab/static/js/runtime-main.0cd5b9de.js.map",
+    "static/js/2.18a0789f.chunk.js": "/smriti2510/PokeTab/static/js/2.18a0789f.chunk.js",
+    "static/js/2.18a0789f.chunk.js.map": "/smriti2510/PokeTab/static/js/2.18a0789f.chunk.js.map",
+    "index.html": "/smriti2510/PokeTab/index.html",
+    "static/css/main.d5ff60de.chunk.css.map": "/smriti2510/PokeTab/static/css/main.d5ff60de.chunk.css.map",
+    "static/js/2.18a0789f.chunk.js.LICENSE.txt": "/smriti2510/PokeTab/static/js/2.18a0789f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd5b9de.js",
+    "static/js/2.18a0789f.chunk.js",
+    "static/css/main.d5ff60de.chunk.css",
+    "static/js/main.a8cb2a3e.chunk.js"
+  ]
+}
